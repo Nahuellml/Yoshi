@@ -10,6 +10,7 @@
 }
 body {
   background: linear-gradient(#333 , #000);
+  height: 100vh;
 }
 .yoshi {
   width: 1200px;
